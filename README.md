@@ -4,3 +4,4 @@ A classe GuaritaIPpy tem como objetivo tornar possível a comunicação direta e
 
 Essa classe é uma reescrita da classe GuaritaIP (PHP) para Python 3.
 
+ATENÇÃO: Este projeto é um trabalho em andamento. Não utilize em ambiente de produção.
